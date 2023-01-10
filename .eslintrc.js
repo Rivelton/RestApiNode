@@ -15,5 +15,6 @@ module.exports = {
     'class-methods-use-this': 'off',
     'linebreak-style': 0,
     'import/first': 'off',
+    'no-param-reassign': 'off',
   },
 };
